@@ -3,7 +3,7 @@ const prisma = require("./prismaClient"); // adjust path if needed
 
 // ✅ Replace these with the actual credentials
 const email = "mwakidenice.md@gmail.com";
-const password = "73641483";
+const password = "12345678";
 
 async function createAdmin() {
   try {
